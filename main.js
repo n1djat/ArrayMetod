@@ -1459,7 +1459,8 @@ let results = [
 // 3) employeeİd- görə sortlayın
 
 // let abc = results.sort((a,b) => a.order.employeeId - b.order.employeeId);
-// console.log(abc);
+// let x = abc.length;
+// console.log(x);
 
 
 
