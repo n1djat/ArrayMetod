@@ -1452,15 +1452,15 @@ let results = [
 // 2) customerID ERNSH olan neçə ədəd sifariş var?
 
 // let abc = results.filter(item => item.order.customerId == "ERNSH");
-// console.log(abc);
+// let x = abc.length;
+// console.log(x);
 
 
 
 // 3) employeeİd- görə sortlayın
 
 // let abc = results.sort((a,b) => a.order.employeeId - b.order.employeeId);
-// let x = abc.length;
-// console.log(x);
+// console.log(abc);
 
 
 
